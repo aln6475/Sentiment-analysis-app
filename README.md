@@ -85,7 +85,7 @@ Install all with:
 
 pip install -r requirements.txt
 👨‍💻 Author
-Alanta Mariya Babu 
+Jamilin George
 B.Tech in Artificial Intelligence & Data Science
 This project was developed as part of an internship for a sentiment analysis application using the IMDB dataset.
 
